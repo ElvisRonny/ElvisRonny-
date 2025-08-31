@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>pen pals team projects on Health Connect</b>
 
-  - [Pen Pals Team Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Pen Pals Team Project](https://github.com/ElvisRonny/My-Place-Holder-Project)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/ElvisRonny/My-Place-Holder-Project/edit/main/README.md)) <b><i>(Potentially NSFW)</b></i>
 -
